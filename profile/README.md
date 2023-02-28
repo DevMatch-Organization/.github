@@ -14,11 +14,7 @@ texto
 ## Termos de Uso
 texto
 
-## Pessoas que já contribuiram
-
-<a href="https://github.com/brasilapi/brasilapi/graphs/contributors"><img src="https://contrib.rocks/image?repo=brasilapi/brasilapi" /></a>
-
 ## Autores
 
-| [<img src="https://github.com/filipedeschamps.png?size=115" width=115><br><sub>@filipedeschamps</sub>](https://github.com/filipedeschamps) | [<img src="https://github.com/lucianopf.png?size=115" width=115><br><sub>@lucianopf</sub>](https://github.com/lucianopf) |
+| [<img src="https://github.com/guhdalla.png?size=115" width=115><br><sub>@guhdalla</sub>](https://github.com/guhdalla)
 | :---: | :---: |
