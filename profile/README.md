@@ -6,7 +6,7 @@
 O DevMatch vem com o proposito de ser a primeira rede social descentralizada focada em desenvolvedores. Com integração ao Github e LinkedIn sendo a melhor maneira de compartilhar seu projeto, tirar dúvidas, criar sua comunidade e encontrar uma equipe perfeita para o desenvolvimento e para sua vida.
 
 ## Documentação
-Caso deseje saber mais sobre os detalhes da arquitetura consulte nossa [documentação]([https://brasilapi.com.br/docs](https://whimsical.com/devmatch-55gtSo4cC8mR1rKRnEGahV)).
+Caso deseje saber mais sobre os detalhes da arquitetura consulte nossa [documentação]([https://brasilapi.com.br/docs](https://whimsical.com/devmatch-55gtSo4cC8mR1rKRnEGahV]).
 
 ## Como contribuir
 texto
