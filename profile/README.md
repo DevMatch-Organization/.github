@@ -16,5 +16,5 @@ texto
 
 ## Autores
 
-| [<img src="https://github.com/guhdalla.png?size=115" width=115><br><sub>@guhdalla</sub>](https://github.com/guhdalla)
-| :---: | :---: |
+| [<img src="https://github.com/guhdalla.png?size=115" width=115><br><sub>@guhdalla</sub>](https://github.com/guhdalla) |
+| :---: |
